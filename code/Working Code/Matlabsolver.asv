@@ -22,4 +22,4 @@ Xspan = [x0 x1];
 figure(2)
 plot(xs,ys(:,1))
 
-% Insert root finder
+% Insert root finder 
